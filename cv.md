@@ -5,10 +5,10 @@
 # 1
 About me
 ------------------
-< Actio in distans
+> Actio in distans
 
 Age: *37*
-Experience: *economist-engineer* since 2003
+Experience: *economist-engineer* since 2003\
 Education: *Baykalskiy State University of Economics and Law*
 
 
