@@ -7,9 +7,10 @@ About me
 ------------------
 > Actio in distans
 
-Age: *37*
+Age: *37*\
 Experience: *economist-engineer* since 2003\
-Education: *Baykalskiy State University of Economics and Law*
+Education: *Baykalskiy State University of Economics and Law*\
+Personal qualities: purposefulness, analytics, learnability
 
 
 # 2
@@ -25,4 +26,7 @@ Skills
     5. Java
 - Stock exchange (courses: >Algorithmic trading systems>)
 
-  
+# 3
+Examples
+------------------
+https://github.com/gvjas/
