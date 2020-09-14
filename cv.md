@@ -3,10 +3,10 @@
 *Email: gvjash@gmail.com*
 
 # 1
-About me
-------------------
+## About me
+  
 > Actio in distans
-
+  
 Age: *37*\
 Experience: *economist-engineer* since 2003\
 Education: *Baykalskiy State University of Economics and Law*\
@@ -14,8 +14,8 @@ Personal qualities: *purposefulness, analytics, learnability*
 
 
 # 2
-Skills
-------------------
+## Skills
+  
 - Economic
 - Self education:
   - basics: 
@@ -27,6 +27,6 @@ Skills
 - Stock exchange (courses: *Algorithmic trading systems*)
 
 # 3
-Examples
-------------------
+## Examples
+  
 <https://github.com/gvjas/>
