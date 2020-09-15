@@ -34,6 +34,19 @@
         #name-mail {
             background-color: darkorange;
         }
+        ul {
+            border: rgb(42, 165, 63) 2px solid;
+            border-radius: 10%;
+            width: 55%;
+        }
+        #git-hub {
+            border: rgb(42, 165, 63) 2px solid;
+            border-radius: 10%;
+            height: 30px;
+            width: 100px;
+            line-height: 1.5;
+            text-align: center;
+        }
         
     </style>
 </head>
@@ -41,7 +54,7 @@
     <header>
         <table cellspacing = "10" id="name-mail">
             <tr>
-                <td rowspan="2"><img src="aface.bmp" alt="Smiley face"></td>
+                <td rowspan="2"><img src=".\aface.bmp" alt="Smiley face"></td>
             </tr>
             <tr>
                 <td id="name"><h1>Shetko Vyacheslav</h1></td>
@@ -81,27 +94,29 @@
 
         <h1>2</h1>
         <h2>Skills</h2>
-        <ul>
-            <li>Economic</li>
-            <li>Self education:
-                <ul>
-                    <li>basics:
-                        <ol>
-                            <li>Git</li>
-                            <li>HTML, CSS</li>
-                            <li>javascript</li>
-                            <li>Python 3</li>
-                            <li>Java</li>
-                        </ol>
-                        
-                    </li>
-                </ul>
-            </li>
-            <li>Stock exchange (courses: <q>Algorithmic trading systems</q>)</li>
+        <article>
+            <ul>
+                <li>Economic</li>
+                <li>Self education:
+                    <ul>
+                        <li>basics:
+                            <ol>
+                                <li>Git</li>
+                                <li>HTML, CSS</li>
+                                <li>javascript</li>
+                                <li>Python 3</li>
+                                <li>Java</li>
+                            </ol>
+                            
+                        </li>
+                    </ul>
+                </li>
+                <li>Stock exchange (courses: <q>Algorithmic trading systems</q>)</li>
             </ul>
+        </article>       
         <h1>3</h1>
         <h2>Examples</h2>   
-        <a href="https://github.com/gvjas">My GitHub</a>
+        <p id="git-hub"><a href="https://github.com/gvjas">My GitHub</a></p>
     </section>
 </body>
 </html>
